@@ -13,7 +13,12 @@
   "keywords": [
     "koa",
     "static",
-    "koa-static"
+    "koa-static",
+    "Last-Modified",
+    "Etag",
+    "Cache-Control",
+    "Pragma",
+    "HTTP Cache"
   ],
   "author": {
     "email": "204084802@qq.com",

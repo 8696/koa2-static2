@@ -92,3 +92,9 @@ app.use(koa2Static2(staticPath, options));
 #### 其他
 
 - 若使用 `setHeaders` 中设置 `Cache-Control`、`Pragma`、`Last-Modified`、`Etag` 将无效
+
+
+#### 依赖模块
+
+- [koa](https://github.com/koajs/koa)
+- [koa-static](https://github.com/koajs/static)
